@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/bin/Debug/net6.0/FundamentalsIII.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/refint/FundamentalsIII.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/FundamentalsIII.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/FundamentalsIII/obj/Debug/net6.0/ref/FundamentalsIII.dll
